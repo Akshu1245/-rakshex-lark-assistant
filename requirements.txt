@@ -1,0 +1,2 @@
+lark-oapi==1.7.5
+# test-only, for the offline test suite (never needed to run the assistant): cryptography
